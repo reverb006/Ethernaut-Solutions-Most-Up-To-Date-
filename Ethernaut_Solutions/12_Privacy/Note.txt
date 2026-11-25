@@ -1,0 +1,5 @@
+await web3.eth.getStorageAt("<CONTRACT_ADDRESS>", 1)
+
+0x d244887874bace1426d766caea1fcb97 8fc1cef972e936f61830f7fc3217e28e
+
+0xd244887874bace1426d766caea1fcb97
